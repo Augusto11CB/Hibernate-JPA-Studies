@@ -1,6 +1,13 @@
 
 # ElementCollection
 
+### Annotations
+* @ElementCollection
+* @CollectionTable
+* @Embeddable
+* @AttributeOverrides
+	* @AttributeOverride
+
 Mapping a collection of basic as well as embeddable types using JPA’s **@ElementCollection** and **@CollectionTable** annotations
 
 Use ElementCollection to deal with a collection of non-entities, in other words, a collection of simple types (Strings, etc.) or a collection of embeddable elements (class annotated with **@Embeddable**).
