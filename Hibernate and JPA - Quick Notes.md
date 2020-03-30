@@ -1,6 +1,16 @@
 
 # Hibernate and JPA - Quick Notes
 
+## What Is Java Persistence API?
+The Java Persistence API **provides a specification** for persisting, reading, and managing data from your Java object to relational tables in the database.
+
+As JPA is just a specification, it means that there is no implementation of it.
+
+## What Is Hibernate Framework?
+**Hibernate is a JPA implementation.
+
+**Hibernate is an object-relational mapping solution for Java environments. Object-relational mapping or **ORM** is the **programming technique to map application domain model objects to the relational database tables**. Hibernate is a Java-based ORM tool that provides a framework for mapping application domain objects to the relational database tables and vice versa.
+
 
 
 ## @Lob
